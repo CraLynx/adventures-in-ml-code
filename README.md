@@ -8,3 +8,4 @@ keras_cnn.py is the code developed in [Keras tutorial – build a convolutional 
 tf_word2vec.py is the code developed in [Word2Vec word embedding tutorial in Python and TensorFlow](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)  
 cntk_tutorial.py is the code developed in [A Microsoft CNTK tutorial in Python – build a neural network](http://adventuresinmachinelearning.com/microsoft-cntk-tutorial/)  
 tf_queuing.py is the code developed in [An introduction to TensorFlow queuing and threading](http://adventuresinmachinelearning.com/introduction-tensorflow-queuing/)  
+Изучить
